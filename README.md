@@ -1,2 +1,2 @@
 # hello-word
-Give it a try
+I am data analyst, enjoy playing with data and coding, I am proficient at using R, Python, SQL, SAS
